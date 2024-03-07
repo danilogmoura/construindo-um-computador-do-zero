@@ -1,4 +1,4 @@
-#### Construindo um Computador do Zero
+## Construindo um Computador do Zero
 
 **Visão Geral**
 
